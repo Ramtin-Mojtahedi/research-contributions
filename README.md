@@ -1,3 +1,13 @@
+<picture>
+  <img width="100%" src="https://raw.githubusercontent.com/Ramtin-Mojtahedi/Ramtin-Mojtahedi/main/assets/cover-imaging.png" alt="Research references: Medical image computing cover.">
+</picture>
+
+**Research references · Medical image computing**
+
+[Profile](https://github.com/Ramtin-Mojtahedi) · [Project directory](https://github.com/Ramtin-Mojtahedi/Ramtin-Mojtahedi/blob/main/REPOSITORY_INDEX.md)
+
+Reference fork of [Project-MONAI/research-contributions](https://github.com/Project-MONAI/research-contributions). Original authorship and licensing remain with the upstream project.
+
 # Research contributions — fork snapshot
 
 <!-- repository-guide:start -->
